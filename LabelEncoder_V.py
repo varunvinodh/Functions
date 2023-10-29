@@ -1,21 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[15]:
-
-
 import pandas as pd
-
-
-# ## Encoder 
-
-# ### LabelEncoder
-
-# In[18]:
-
-
 from sklearn.preprocessing import LabelEncoder 
-
 
 ######################### LABEL ENCODER #########################
 # Creating a Encoder function to save the encoders
@@ -96,16 +80,3 @@ def numbers_to_text(df, le_dict):
     for i in le_dict.keys(): 
         df[i] = le_dict[i].inverse_transform(df[i]) 
     return df
-
-
-# In[19]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
