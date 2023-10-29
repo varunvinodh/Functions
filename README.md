@@ -1,4 +1,4 @@
-# Categorical Data Encoding for Machine LearningDescription:
+# Categorical Data Encoding for Machine Learning:
 This repository contains a Python script for managing categorical data in preparation for machine learning tasks. It includes functions for encoding categorical data using LabelEncoder, decoding the encoded data, and handling unseen labels in the data. These functions help ensure that categorical data is properly processed and encoded for machine learning models.
 
 ## Key Features:
