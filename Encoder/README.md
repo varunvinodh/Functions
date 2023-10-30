@@ -7,7 +7,7 @@ This repository contains a Python script for managing categorical data in prepar
 
 **re_encode:** Re-encode categorical columns, handling unseen labels and maintaining consistency.
 
-**remove_row_fit:** Remove rows with unseen labels in a specific categorical column and re-encode the data.
+**remove_row_fit:** This is a part of re_encode code. It remove rows with unseen labels in a specific categorical column and re-encode the data. 
 
 **numbers_to_text:** Decode previously encoded categorical columns to their original values.
 
