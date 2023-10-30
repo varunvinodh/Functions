@@ -14,5 +14,5 @@ This repository contains a Python script for managing categorical data in prepar
 ## Usage:
 You can use these functions to preprocess and manage categorical data in your machine learning projects. They simplify the procedure of storing encoder files for individual datasets, allowing you to reuse them in the future. The script is designed to make it easier to work with categorical data, especially when dealing with unseen labels and encoding consistency.
 
-## For more understanding reffer to the docstrings for detailed understanding on each function.
+## [To use the code reffer: ](https://pypi.org/project/LeEncoderML/)https://pypi.org/project/LeEncoderML/
  
